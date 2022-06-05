@@ -1,0 +1,54 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 3%;
+    margin-bottom: 15px;
+    border: none;
+    margin-left: 9%;
+    max-width: 1000px;
+}
+
+.item {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.titles {
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+.wrapper img {
+    width: 30px;
+    height: 30px;
+    margin: 3px;
+}
+
+.wrapper a {
+    color: #fff;
+}
+
+.wrapper a:visited {
+    color: #fff;
+}
+
+.buttonstyle {
+    display: inline-block;
+    color: #fff;
+    height: 25px;
+    width: 150px;
+    text-align: center;
+    appearance: none;
+    border: 0;
+    background: #2980B9;
+    text-decoration: none;
+    font-size: 14px;
+    padding-top: 5px;
+}
+
+.title {
+    font-size: 30px;
+    margin-left: 9%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}

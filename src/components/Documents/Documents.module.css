@@ -1,0 +1,61 @@
+.documetsstyle {
+    display: grid;
+    grid-template-rows: 1fr 1 fr;
+    grid-template-columns:  1fr;
+    grid-gap: 3px;
+    line-height: 1.4;
+}
+
+.banner {
+    background-color: #EBEBEB;
+}
+
+.title {
+    font-size: 30px;
+    margin-left: 9%;
+    padding-top: 15px;
+}
+
+.content {
+    margin-left: 140px;
+    margin-right: 140px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    max-width: 1000px;
+    line-height: 1.5;
+    border-bottom: 1px solid #ECF0F1;
+    max-width: 1000px;
+}
+
+.group {
+    font-size: 18pt;
+}
+
+.item {
+    font-size: 13pt;
+}
+
+.banner {
+    background-color: #ECF0F1;
+    height: 80px;
+    font-size: 25pt;
+}
+
+.documetsstyle a {
+    color: #0067a5;
+    text-decoration: none;
+}
+
+.documetsstyle a:visited {
+    color: #0067a5;
+
+}
+
+.documetsstyledoc a:hover {
+    color: #0067a5;
+    text-decoration: underline;
+}
+
+.documetsstyle a:active {
+    color: #0067a5;
+}

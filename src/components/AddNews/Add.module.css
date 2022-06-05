@@ -1,0 +1,32 @@
+.wrapper {
+    margin-left: 30%;
+}
+
+.forma {
+    padding-bottom: 30px;
+}
+
+.forma input{
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+.forma textarea {
+    width: 500px;
+    padding-bottom: 200px;
+}
+
+.forma label {
+    padding-bottom: 20px;
+}
+
+.wrapper button {
+    height: 25px;
+    margin-top: 12px;
+    appearance: none;
+    border: 0;
+    background: #2980B9;
+    color: #fff;
+    font-size: 14px;
+}
+

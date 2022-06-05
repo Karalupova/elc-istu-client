@@ -1,0 +1,62 @@
+.wrapper {
+    display: grid;
+    grid-template-rows: 20% 100px;
+    grid-template-columns:  1fr 1fr;
+    grid-gap: 120px;
+    margin-bottom: 20px;
+    border: none;
+    border-bottom: 1px solid #ECF0F1;
+    margin-left: 9%;
+    max-width: 1040px;
+}
+
+.banner {
+    background-color: #ECF0F1;
+}
+
+.title {
+    font-size: 30px;
+    margin-left: 9%;
+    padding-top: 15px;
+}
+
+.description1 {
+    font-size: 16px;
+    margin-left: 9%;
+    padding-top: 8px;
+    padding-bottom: 10px;
+    max-width: 1000px;
+}
+
+.titles {
+    font-size: 25px;
+    margin-left: 9%;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ECF0F1;
+}
+
+.item {
+    text-align: center;
+    padding-top: 10px;
+    line-height: 1.5;
+}
+
+.name {
+    font-size: 20pt;
+}
+
+.tasks {
+    font-weight: bold;
+}
+
+.post {
+    font-size: 15pt;
+}
+
+.description {
+    line-height: 1.2;
+    font-style: oblique;
+}
+
+
